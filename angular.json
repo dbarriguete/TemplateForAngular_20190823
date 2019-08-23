@@ -24,14 +24,7 @@
                             "src/assets",
                             "src/css"
                         ],
-                        "styles": [
-                            "src/css/bootstrap.min.css",
-                            "src/font-awesome/css/font-awesome.css",
-                            "src/css/plugins/toastr/toastr.min.css",
-                            "src/js/plugins/gritter/jquery.gritter.css",
-                            "src/css/animate.css",
-                            "src/css/style.css"
-                        ],
+                        "styles": [],
                         "scripts": [
                             "src/js/jquery-3.1.1.min.js",
                             "src/js/popper.min.js",
