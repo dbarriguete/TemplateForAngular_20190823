@@ -1303,9 +1303,10 @@ h5 {
 }
 
 .nav-header {
-    padding: 33px 25px;
+    padding: 10px 10px;
     background-color: #2f4050;
     background-image: url("patterns/header-profile.png");
+    text-align: center;
 }
 
 .caret {
@@ -6096,8 +6097,7 @@ code {
     border-width: 2px 0 0;
     color: inherit;
     margin-bottom: 0;
-    padding: 15px 90px 8px 15px;
-    min-height: 48px;
+    padding: 5px 5px 8px 15px;
     position: relative;
     clear: both;
 }

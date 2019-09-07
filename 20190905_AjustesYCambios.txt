@@ -1,0 +1,22 @@
+2019/09/05 
+Junta de ajustes con Darío:
+
+
+HECHO - Hace falta el enlace a la página de facturando.mx desde el logotipo.
+
+HECHO - Esto ya no-- Cuando no haya error colocar un cuadro de color verde con la palomita 
+HECHO - Validar que los íconos se muestran en la sección de la izquierda
+
+HECHO - blue-bg - Darío va a proporcionar el color de la bandera en la sección de Miscellaneuos > TimeLine V.2, usar el azul que está ahí
+
+HECHO - Agregar el resúmen genérico debajo del título (texto) (existe uno o varios erorres en la validación )
+
+Reducir los espacios en la tabla
+
+Los subtitulos de "Validaciones"  y "Datos" deben ir por completo en Mayúsculas.
+
+Quitar las líneas que se encuentran debajo del sub-subtitulo "Project" 
+Reducir los espacios en la tabla
+
+Dejar como tabla la sección de Datos, la sección de Validaciones, sólo va el texto que se muestra, no es una tabla
+
